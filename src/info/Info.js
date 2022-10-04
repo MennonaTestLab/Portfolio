@@ -76,7 +76,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Matt. After college I joined the Navy - which led to adventures around the world as both an Air Traffic Controller and Aviator... with some experiences thrown in that I never would have imagined. Now that it's time to leave military life behind, I've decided to dive into Full Stack Web Development - maybe even as a digital nomad around the world. It's time for the next New Adventure!",
+    bio: "Hello! I'm Matt. After college I joined the Navy - which led to adventures around the world as both an Air Traffic Controller and Aviator... with some experiences thrown in that I never would have imagined. Now that it's time to leave military life behind, I've decided to dive into IT - maybe even as a digital nomad around the world. It's time for the next New Adventure!",
     skills:
     {
         proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
@@ -85,20 +85,24 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'Sound Mind & Body',
+            emoji: '🧠  |  💪🏽'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'Gardening',
+            emoji: '🌽'
         },
         {
-            label: 'movies',
-            emoji: '🎥'
+            label: 'Reading - and LOTS of it!',
+            emoji: '📚'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'Fast Cars & Motorcycles',
+            emoji: '🚘  |  🏍️'
+        },
+        {
+            label: 'Showing the world some EMPATHY',
+            emoji: '🤗'
         }
         // Same as above, change the emojis to match / relate to your hobbies or interests.
         // You can also remove the emojis if you'd like, I just think they look cute :P
