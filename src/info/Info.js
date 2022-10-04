@@ -76,7 +76,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Matt. After college I joined the Navy - which led to adventures around the world as both an Air Traffic Controller and Aviator... with some experiences thrown in that I never would have imagined. Now that it's time to leave military life behind, I've decided to dive into Full Stack Web Development - maybe even as a digital nomad around the world. It's time for the next New Adventure!",
     skills:
     {
         proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
