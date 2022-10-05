@@ -25,6 +25,7 @@
 .idea/*
 .idea/*/*/*
 .package-lock.json
+/archive
 
 npm-debug.log*
 yarn-debug.log*
