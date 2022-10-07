@@ -115,27 +115,26 @@ export const info = {
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "UPROAR",
+            live: "https://uproarlounge.com/index.html",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Employee Directory",
+            live: "https://theycallmemattyd.github.io/user-directory/",
+            source: "https://github.com/TheyCallMeMattyD/user-directory",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Holiday Wishlist",
+            live: "https://project-two-gwu.herokuapp.com/login.html",
+            source: "https://github.com/TheyCallMeMattyD/project_two",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Iron MANor",
+            live: "https://theycallmemattyd.github.io/ironmanor/",
+            source: "https://github.com/TheyCallMeMattyD/ironmanor",
             image: mock5
         }
     ]
